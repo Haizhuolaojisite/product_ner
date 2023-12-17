@@ -1,0 +1,12 @@
+name: py38
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - keras
+  - tensorflow
+  - scikit-learn
+  - pyyaml
+  - h5py
+  - protobuf
+prefix: /Users/leoluo/anaconda3/envs/py38
